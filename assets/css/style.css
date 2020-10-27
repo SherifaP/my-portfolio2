@@ -1,0 +1,30 @@
+body {
+    background: yellowgreen;
+    background-image: url("../images/pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#skill {
+    color: teal;
+}
+.wrapper {
+    background-color: rgb(50, 115, 220);
+    text-align: center;
+    width: 400px;
+}
+
+.wrapper {
+    background-position: center
+ }
+.container {
+    height: 100%
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper {
+    width: 600px;
+    height: 100px
+}
+<div>
